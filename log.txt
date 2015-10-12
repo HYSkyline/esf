@@ -1,0 +1,1334 @@
+﻿C:\Python27\python.exe F:/application/python/esf_pro.py
+Link Start!
+--->file reading completed.
+--->database attach completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+||||||code reading failed.(No.286 page attach failed.)HTTP Error 404: Not Found
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+------>code reading completed.
+------>item searching completed.
+------>data preparing completed.
+------>data writen to database completed.
+||||||code reading failed.(No.331 page attach failed.)unknown url type: 
+
+
+Link Report:
+Usetime:4190.18s
+targets number:331
+completed:329/failed:2
+Link completed percent:99.39%
+
+
+Link Logout.
+
+Process finished with exit code 0
